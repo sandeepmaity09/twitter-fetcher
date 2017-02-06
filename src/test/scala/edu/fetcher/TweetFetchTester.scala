@@ -11,8 +11,4 @@ class TweetFetchTester extends FunSuite {
   test("Future Working"){
     assert(Await.result(tester.fut,Duration.Inf)!=List[MyTweets]())
   }
-
-
-
-
 }

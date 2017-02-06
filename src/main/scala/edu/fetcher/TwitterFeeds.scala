@@ -1,3 +1,5 @@
+package edu.fetcher
+
 
 import twitter4j.conf.ConfigurationBuilder
 import twitter4j.{Twitter, TwitterFactory}

@@ -1,3 +1,5 @@
+package edu.fetcher
+
 import com.typesafe.config.ConfigFactory
 
 object ConnectionKeys {
